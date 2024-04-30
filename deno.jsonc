@@ -1,0 +1,13 @@
+{
+  "imports": {
+    "std/": "https://deno.land/std@0.214.0/"
+  },
+  "tasks": {
+    "dev": "deno run --watch main.ts"
+  },
+
+  "fmt": {
+    "indentWidth": 4,
+    "semiColons": true
+  }
+}
